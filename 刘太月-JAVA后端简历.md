@@ -98,7 +98,7 @@
 
 **项目描述**：用于执行消防相关事件，例如：维保，巡检，处理报警，故障等等
 
-**设计技术**：vertex、Kafka、Redis、mysql、Docker
+**设计技术**：vertx、Kafka、Redis、mysql、Docker
 
 **项目职责**：
 
@@ -117,6 +117,6 @@
 
 ### 其他
 
-- 了解过hadoop、RocketMQ、sharding-jdbc
+- 了解过hadoop、RocketMQ、sharding-jdbc、dubbo
 - 喜欢交流技术
 - 善于业务分析
